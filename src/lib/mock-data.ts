@@ -120,28 +120,7 @@ export const schemes: Scheme[] = [
     },
     link: "https://pmaymis.gov.in",
   },
-  {
-    id: "vayoshri",
-    name: { en: "Indira Gandhi Old Age Pension", kn: "ಇಂದಿರಾ ಗಾಂಧಿ ವೃದ್ಧಾಪ್ಯ ಪಿಂಚಣಿ", hi: "इंदिरा गांधी वृद्धावस्था पेंशन" },
-    category: "Social Welfare",
-    description: {
-      en: "Monthly pension for citizens above 60 years from BPL families.",
-      kn: "BPL ಕುಟುಂಬಗಳ 60+ ವಯಸ್ಸಿನ ನಾಗರಿಕರಿಗೆ ಮಾಸಿಕ ಪಿಂಚಣಿ.",
-      hi: "BPL परिवारों के 60+ वर्ष नागरिकों के लिए मासिक पेंशन।",
-    },
-    eligibility: {
-      en: "60+ years, below poverty line.",
-      kn: "60+ ವರ್ಷ, ಬಡತನ ರೇಖೆಗಿಂತ ಕೆಳಗೆ.",
-      hi: "60+ वर्ष, गरीबी रेखा से नीचे।",
-    },
-    documents: ["Aadhaar", "Age Proof", "BPL Card", "Bank Account"],
-    process: {
-      en: "Apply at Taluk office or Seva Sindhu portal.",
-      kn: "ತಾಲೂಕು ಕಚೇರಿ ಅಥವಾ ಸೇವಾ ಸಿಂಧು ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ.",
-      hi: "तालुक कार्यालय या सेवा सिंधु पोर्टल पर आवेदन करें।",
-    },
-    link: "https://sevasindhu.karnataka.gov.in",
-  },
+  
   {
     id: "ujjwala",
     name: { en: "PM Ujjwala Yojana", kn: "ಪಿಎಂ ಉಜ್ವಲ ಯೋಜನೆ", hi: "पीएम उज्ज्वला योजना" },
