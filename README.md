@@ -1,4 +1,4 @@
-# 🚀 Sarkari Sahayak – AI Powered Multilingual Government Service Assistant
+#  Sarkari Sahayak – AI Powered Multilingual Government Service Assistant
 
 ## 📌 Problem Statement
 
@@ -98,7 +98,7 @@ Before running the project, ensure the following are installed:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ManiSai-code/QuadCore-Creators.git
 cd Sarkari-Sahayak
 ```
 
